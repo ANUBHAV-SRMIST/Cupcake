@@ -1,1 +1,1 @@
-The Cupcake app is a bit different than the apps you've worked with so far. Instead of all the content displaying on a single screen, the app has four separate screens, and the user can navigate through each screen while ordering cupcakes.
+
